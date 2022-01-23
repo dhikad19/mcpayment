@@ -1,6 +1,6 @@
-##Jawaban Test
+#Jawaban Test
 
-
+```sh
 const twoSums = (nums, target) => {
     for(let j = 0; j < nums.length; j++) {
         for(let k = j + 1; k < nums.length; k++) {
@@ -10,3 +10,4 @@ const twoSums = (nums, target) => {
         }
     }
 };
+```
