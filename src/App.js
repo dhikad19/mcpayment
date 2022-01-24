@@ -8,7 +8,7 @@ import RegisterPage from './pages/Register';
 import AboutPage from './pages/AboutPage';
 import InvoicingPage from './pages/InvoicingPage';
 import TransferPage from './pages/TransferPage';
-import PaymentPage from './pages/TransferPage';
+import PaymentPage from './pages/PaymentPage';
 
 function App() {
 
