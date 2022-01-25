@@ -72,7 +72,7 @@ export const RegisterInput = styled.input`
     background-color: var (--white-color);
 `
 export const RegisterButton = styled.button`
-    background-color: var(--orange-color);
+    background-color: var(--blue-color);
     color: var(--white-color);
     padding: 1rem 1.6rem;
     font-size: 20px;
